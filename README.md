@@ -67,7 +67,15 @@ Ticket panelini oluşturmak istediğin kanalda şu komutu çalıştır:
 .ticket
 ```
 
-> `Manage Channels` yetkisi gerektirir.
+> `Manage Channels` yetkisi gerektirir
+
+### Resimler
+
+![Resim](https://i.ibb.co/FLGZ8Tk0/Screenshot-20260423-170006-Chrome.jpg)
+![Resim](https://i.ibb.co/Dgk69ddB/Screenshot-20260423-170031-Chrome.jpg)
+![Resim](https://i.ibb.co/fdh6JZkz/Screenshot-20260423-170438-Discord.jpg)
+
+
 
 ### Ticket Akışı
 
